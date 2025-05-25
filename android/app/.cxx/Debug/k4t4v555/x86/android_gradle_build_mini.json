@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\mani\\Downloads\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\mani\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\mani\\Desktop\\flutter asif\\covid_app\\covid_app\\covid_app\\android\\app\\.cxx\\Debug\\k4t4v555\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\mani\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\mani\\Desktop\\flutter asif\\covid_app\\covid_app\\covid_app\\android\\app\\.cxx\\Debug\\k4t4v555\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
